@@ -12,3 +12,8 @@ attributes are called by themselves and methods are called manually
     - easy to colab
     
 As python has everything in terms of class and object it is called object oriented programming language.
+
+end to end project 
+encapsulation 
+getter and setter 
+static method
