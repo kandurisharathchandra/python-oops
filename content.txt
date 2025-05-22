@@ -1,0 +1,14 @@
+class and obj(example)
+In Object-Oriented Programming (OOP), 
+a class is a blueprint for creating objects, defining their properties (attributes) and behaviors (methods).
+attributes are called by themselves and methods are called manually 
+- why python is called oop?
+    
+    everything in python is an object (data structure,data type)
+- Advantages of oops
+    - we can create our own data type
+    - code reusalbility
+    - debugging
+    - easy to colab
+    
+As python has everything in terms of class and object it is called object oriented programming language.
