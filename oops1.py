@@ -2,6 +2,7 @@ class Employee:
     #define attributes
     #special method/magic method/dunder method - constructor
     def __init__(self):
+        print(id(self))
         self.id=123
         self.salary=50000
         self.designation="sde"
@@ -10,11 +11,19 @@ class Employee:
 
 
 #create an instance of the class
-sam=Employee()
-print(sam.id)
-print(sam.salary)
-print(sam.designation)
-sam.travel("Hyderabad")
+# sam=Employee()
+# print(id(sam))
+# sam.name="sam kumar"
+# print(sam.name)
 
-print(type(sam))
-print(3+5)
+
+# shakthiman=Employee()
+# print(id(shakthiman))
+
+# print(sam.id)
+# print(sam.salary)
+# print(sam.designation)
+# sam.travel("Hyderabad")
+
+# print(type(sam))
+# print(3+5)
