@@ -17,3 +17,5 @@ end to end project
 encapsulation 
 getter and setter 
 static method
+
+inheritance
